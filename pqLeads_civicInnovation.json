@@ -1,0 +1,428 @@
+[
+    {
+        "id":  "5f3a3f2e-4a73-4fb7-9d0f-9f9a6e0f7b01",
+        "name":  "Kirby Brady",
+        "title":  "Chief Innovation Officer",
+        "current_organizations":  [
+                                      "City of San Diego"
+                                  ],
+        "locations":  [
+                          "San Diego, CA"
+                      ],
+        "bio":  {
+                    "description":  "Leads San Diego’s civic innovation efforts as the city’s first CIO, focusing on data-driven solutions and cross-departmental innovation to tackle complex urban challenges. Her mandate to foster a culture of innovation in city government, with an emphasis on equity and technology, aligns with building cross-sector expert networks to improve public services.",
+                    "citations":  [
+                                      "https://www.sandiego.gov/mayor/mayor-gloria-appoints-city%E2%80%99s-first-chief-innovation-officer"
+                                  ]
+                },
+        "lead_type":  "civic innovation leader",
+        "created_at":  "2025-10-21T21:00:00Z",
+        "last_updated":  "2025-10-21T21:00:00Z"
+    },
+    {
+        "id":  "e0f8a8a1-1d9b-4f7d-8c7a-6a0b4a3f2e11",
+        "name":  "David Graham",
+        "title":  "Chief Innovation Officer",
+        "current_organizations":  [
+                                      "City of Carlsbad"
+                                  ],
+        "locations":  [
+                          "Carlsbad, CA"
+                      ],
+        "bio":  {
+                    "description":  "A veteran civic innovator who pioneered San Diego region’s first city innovation office. As Carlsbad’s CIO, he has implemented initiatives like an all-electric car-share fleet and digital transformation plans. Graham is known as a “global civic innovation thought leader” inspiring collaboration across public, private, and academic sectors – exactly the kind of cross-sector ecosystem building HyperGood supports.",
+                    "citations":  [
+                                      "https://techconnectworld.com/World2021/bio.php?i=905"
+                                  ]
+                },
+        "lead_type":  "civic innovation leader",
+        "created_at":  "2025-10-21T21:00:00Z",
+        "last_updated":  "2025-10-21T21:00:00Z"
+    },
+    {
+        "id":  "e9a2b3c4-5d6e-47f8-9a01-2b3c4d5e6f70",
+        "name":  "Jay Nath",
+        "title":  "Co-CEO and Founder",
+        "current_organizations":  [
+                                      "City Innovate"
+                                  ],
+        "locations":  [
+                          "San Francisco, CA"
+                      ],
+        "bio":  {
+                    "description":  "Former Chief Innovation Officer of San Francisco, now leading City Innovate, a public-benefit tech company. Nath founded the Startup-in-Residence (STIR) program to connect startups with government needs. Under his leadership, City Innovate helps governments modernize processes (procurement, grants, budgeting) and partner with new solution providers. His background in bridging civic problems with private-sector innovation makes him a prime collaborator for innovative grantmaking.",
+                    "citations":  [
+                                      "https://sjfventures.com/city-innovate-raises-12m-series-a-announces-servicenow-partnership/"
+                                  ]
+                },
+        "lead_type":  "civic innovation leader",
+        "created_at":  "2025-10-21T21:00:00Z",
+        "last_updated":  "2025-10-21T21:00:00Z"
+    },
+    {
+        "id":  "6a7b8c9d-0e1f-42a3-9b5c-6d7e8f9a0b12",
+        "name":  "Lindsay Cole",
+        "title":  "Manager and Founder, Solutions Lab",
+        "current_organizations":  [
+                                      "City of Vancouver"
+                                  ],
+        "locations":  [
+                          "Vancouver, BC"
+                      ],
+        "bio":  {
+                    "description":  "Heads Vancouver’s in-house social innovation lab (SLab) dedicated to breakthrough solutions for complex urban issues. Cole’s lab tackles sustainability and healthy city challenges by co-creating with multiple departments and community partners. Her focus on “transformative solutions to some of the city’s most complex…challenges” and on building innovation infrastructure aligns with HyperGood’s cross-sector network approach.",
+                    "citations":  [
+                                      "https://www.essi-net.eu/?p=1736"
+                                  ]
+                },
+        "lead_type":  "civic innovation leader",
+        "created_at":  "2025-10-21T21:00:00Z",
+        "last_updated":  "2025-10-21T21:00:00Z"
+    },
+    {
+        "id":  "13c4d5e6-f7a8-49b0-8c1d-2e3f4a5b6c77",
+        "name":  "Beth Simone Noveck",
+        "title":  "Director, The GovLab; Chief AI Officer (State of New Jersey)",
+        "current_organizations":  [
+                                      "The Governance Lab at NYU",
+                                      "State of New Jersey"
+                                  ],
+        "locations":  [
+                          "New York, NY",
+                          "Trenton, NJ"
+                      ],
+        "bio":  {
+                    "description":  "A leading figure in public sector innovation, Noveck directs NYU’s Governance Lab and was New Jersey’s first Chief Innovation Officer (and now Chief AI Officer). Formerly the U.S. Deputy CTO under Obama, she designs programs to open government to collaboration. Noveck’s work – from academic innovation centers to state-wide “moonshot” initiatives – exemplifies cross-sector coalition-building for public problem-solving, making her an ideal mentor or partner for HyperGood.",
+                    "citations":  [
+                                      "https://www.govtech.com/workforce/new-jersey-appoints-beth-noveck-as-first-chief-ai-strategist"
+                                  ]
+                },
+        "lead_type":  "civic innovation leader",
+        "created_at":  "2025-10-21T21:00:00Z",
+        "last_updated":  "2025-10-21T21:00:00Z"
+    },
+    {
+        "id":  "b4a0c1d2-e3f4-45a6-9b7c-8d9e0a1b2c34",
+        "name":  "Indy Johar",
+        "title":  "Co-Founder and Executive Director",
+        "current_organizations":  [
+                                      "Dark Matter Labs"
+                                  ],
+        "locations":  [
+                          "London, UK"
+                      ],
+        "bio":  {
+                    "description":  "An architect-turned-systems designer, Johar leads Dark Matter Labs in reimagining civic infrastructure, finance, and governance. He has co-founded social innovation hubs (Impact Hub Birmingham, etc.) and advises city governments on experimental governance. Described as an “explorative practitioner in system change \u0026 the dark matter design of civic infrastructure”, Johar operates globally with radical approaches – a thought partner for non-equilibrium innovation strategies.",
+                    "citations":  [
+                                      "https://darkmatterlabs.org/team"
+                                  ]
+                },
+        "lead_type":  "civic innovation leader",
+        "created_at":  "2025-10-21T21:00:00Z",
+        "last_updated":  "2025-10-21T21:00:00Z"
+    },
+    {
+        "id":  "c6d7e8f9-a0b1-4c2d-9e3f-4a5b6c7d8e90",
+        "name":  "James Anderson",
+        "title":  "Head of Government Innovation",
+        "current_organizations":  [
+                                      "Bloomberg Philanthropies"
+                                  ],
+        "locations":  [
+                          "New York, NY"
+                      ],
+        "bio":  {
+                    "description":  "Leads Bloomberg Philanthropies’ Government Innovation portfolio, supporting hundreds of cities and thousands of officials in better solving civic problems. Anderson established this global program over a decade, focusing on boosting leadership, data use, and innovation capacity in city halls. His bird’s-eye view of innovation across municipalities and experience funding innovative grant programs makes him a valuable connector for HyperGood’s mission.",
+                    "citations":  [
+                                      "https://creativebureaucracy.org/foundation/people/james-anderson"
+                                  ]
+                },
+        "lead_type":  "civic innovation leader",
+        "created_at":  "2025-10-21T21:00:00Z",
+        "last_updated":  "2025-10-21T21:00:00Z"
+    },
+    {
+        "id":  "d7e8f9a0-b1c2-4d3e-8f4a-5b6c7d8e9f01",
+        "name":  "Simone Brody",
+        "title":  "Executive Director, What Works Cities",
+        "current_organizations":  [
+                                      "Bloomberg Center for Public Innovation"
+                                  ],
+        "locations":  [
+                          "New York, NY"
+                      ],
+        "bio":  {
+                    "description":  "Heads a Bloomberg-funded initiative partnering with mayors in 100+ mid-sized cities to improve local government through data-driven decisions. Brody’s program builds city staff capacity via technical assistance and a peer learning network, directly mirroring the creation of cross-sector expert ecosystems. Her insight into scaling innovative practices across cities would inform HyperGood’s development of networked grant programs.",
+                    "citations":  [
+                                      "https://citiesofservice.jhu.edu/about/leadership/simone-brody/"
+                                  ]
+                },
+        "lead_type":  "civic innovation leader",
+        "created_at":  "2025-10-21T21:00:00Z",
+        "last_updated":  "2025-10-21T21:00:00Z"
+    },
+    {
+        "id":  "e8f9a0b1-c2d3-4e4f-9a5b-6c7d8e9f0a12",
+        "name":  "Nigel Jacob",
+        "title":  "Co-Founder",
+        "current_organizations":  [
+                                      "Mayor\u0027s Office of New Urban Mechanics, City of Boston"
+                                  ],
+        "locations":  [
+                          "Boston, MA"
+                      ],
+        "bio":  {
+                    "description":  "Co-founded Boston\u0027s civic R\u0026D lab within City Hall, one of the first city innovation teams in the U.S. Jacob\u0027s work focuses on \"making urban life better via innovative, people-oriented applications of technology and design.\" He has built partnerships with civic tech groups (e.g., Code for America) and won awards for public sector innovation. As someone who \"collaborates with city innovators around the world,\" Jacob epitomizes the cross-sector, cross-city network leadership HyperGood can leverage.",
+                    "citations":  [
+                                      "https://lcau.mit.edu/people/nigel-jacob"
+                                  ]
+                },
+        "lead_type":  "civic innovation leader",
+        "created_at":  "2025-10-21T21:00:00Z",
+        "last_updated":  "2025-10-21T21:00:00Z"
+    },
+    {
+        "id":  "f9a0b1c2-d3e4-4f5a-9b6c-7d8e9f0a1b23",
+        "name":  "Paula Kwan",
+        "title":  "Former Director, Civic Innovation Office",
+        "current_organizations":  [
+                                      "City of Toronto"
+                                  ],
+        "locations":  [
+                          "Toronto, ON"
+                      ],
+        "bio":  {
+                    "description":  "Led Toronto’s Civic Innovation Office, a Bloomberg-funded i-team, focusing on connecting external ideas (especially tech startups) to city needs. Kwan’s approach was to “marry…big ideas [from the tech community] with [the city’s] internal opportunity to do things differently,” co-creating solutions with multi-sector teams. Her experience in launching a civic innovation unit and shifting procurement toward open problem-solving makes her a strong candidate who understands innovative grantmaking in government.",
+                    "citations":  [
+                                      "https://betakit.com/toronto-launches-civic-innovation-office-announces-paula-kwan-as-director/"
+                                  ]
+                },
+        "lead_type":  "civic innovation leader",
+        "created_at":  "2025-10-21T21:00:00Z",
+        "last_updated":  "2025-10-21T21:00:00Z"
+    },
+    {
+        "id":  "0a1b2c3d-4e5f-46a7-8b9c-0d1e2f3a4b56",
+        "name":  "Gabriella G�mez-Mont",
+        "title":  "Founder, Laboratorio para la Ciudad; Principal, Experimentalista",
+        "current_organizations":  [
+                                      "Experimentalista"
+                                  ],
+        "locations":  [
+                          "Mexico City, MX"
+                      ],
+        "bio":  {
+                    "description":  "As Chief Creative Officer for Mexico City, G�mez-Mont founded and ran Laboratorio para la Ciudad, an award-winning experimental civic innovation lab reporting to the Mayor (2013-2018). She assembled artists, technologists, and policymakers to work on urban innovation (from open city data to cultural projects). Globally recognized as a \"creative bureaucrat,\" she now advises cities worldwide. Her track record in building a city innovation ecosystem from scratch speaks to HyperGood\u0027s focus on cross-sector network cultivation for bold ideas.",
+                    "citations":  [
+                                      "https://falling-walls.com/foundation/people/gabriella-gomez-mont-0"
+                                  ]
+                },
+        "lead_type":  "civic innovation leader",
+        "created_at":  "2025-10-21T21:00:00Z",
+        "last_updated":  "2025-10-21T21:00:00Z"
+    },
+    {
+        "id":  "1b2c3d4e-5f60-47a1-92b3-4c5d6e7f8a90",
+        "name":  "Esther Dyson",
+        "title":  "Founder",
+        "bio":  {
+                    "description":  "A renowned tech investor turned health philanthropist, Dyson leads The Way to Wellville, a 10-year nonprofit project in five U.S. communities aimed at improving equitable community health. In Wellville, she convenes local governments, healthcare providers, businesses, and nonprofits to invest in preventive health and measure outcomes. Her role as a catalyst and advisor across sectors (health tech, open data, VC, etc.) illustrates the power of expert networks in driving social innovation – aligning well with HyperGood’s model.",
+                    "citations":  [
+                                      "http://milkeninstitute.org/staff/esther-dyson",
+                                      "https://wellville.net/about/team/"
+                                  ]
+                },
+        "lead_type":  "civic innovation leader",
+        "created_at":  "2025-10-21T21:00:00Z",
+        "last_updated":  "2025-10-21T21:00:00Z",
+        "current_organizations":  [
+                                      "The Way to Wellville"
+                                  ],
+        "locations":  [
+                          "New York, NY"
+                      ]
+    },
+    {
+        "id":  "2c3d4e5f-6071-48a2-93b4-5d6e7f8a9b01",
+        "name":  "Hala Hanna",
+        "title":  "Executive Director",
+        "bio":  {
+                    "description":  "Heads MIT’s Solve initiative, a global marketplace for social impact innovation that crowdsources tech-based solutions to pressing challenges. Hanna oversees a vast network of thought leaders and industry partners who support “Solver” teams with funding and expertise. Under her leadership, Solve has built a “powerhouse community of…leaders” to forge partnerships and scale projects. Her experience in mobilizing cross-sector resources (philanthropists, corporations, academia) to fund breakthrough ideas is directly relevant to HyperGood’s grantmaking intelligence mission.",
+                    "citations":  [
+                                      "https://nationswell.com/five-minutes-with-hala-hanna-executive-director-of-mit-solve/"
+                                  ]
+                },
+        "lead_type":  "civic innovation leader",
+        "created_at":  "2025-10-21T21:00:00Z",
+        "last_updated":  "2025-10-21T21:00:00Z",
+        "current_organizations":  [
+                                      "MIT Solve"
+                                  ],
+        "locations":  [
+                          "Cambridge, MA"
+                      ]
+    },
+    {
+        "id":  "3d4e5f60-7182-49a3-94b5-6e7f8a9b0c12",
+        "name":  "Christian Bason",
+        "title":  "Former CEO, Danish Design Center; Former Director, MindLab",
+        "bio":  {
+                    "description":  "A leading European voice on public innovation, Bason was CEO of the Danish Design Center (2014–2023) and before that led MindLab, the Danish government’s pioneering innovation lab. He has advised governments and international organizations on using design and expansive thinking to address complex societal challenges across multiple sectors. Bason’s approach – combining public, private, and civil society stakeholders to co-create innovative solutions – exemplifies the type of ecosystem HyperGood strives to foster.",
+                    "citations":  [
+                                      "https://www.weforum.org/people/christian-bason/"
+                                  ]
+                },
+        "lead_type":  "civic innovation leader",
+        "created_at":  "2025-10-21T21:00:00Z",
+        "last_updated":  "2025-10-21T21:00:00Z",
+        "current_organizations":  [
+                                      "Danish Design Center",
+                                      "MindLab"
+                                  ],
+        "locations":  [
+                          "Copenhagen, DK"
+                      ]
+    },
+    {
+        "id":  "4e5f6071-8293-4ab4-95c6-7f8a9b0c1d23",
+        "name":  "Marco Daglio",
+        "title":  "Head, Observatory of Public Sector Innovation",
+        "bio":  {
+                    "description":  "Leads the OECD’s flagship innovation initiative (OPSI) that supports governments worldwide in adopting innovative approaches for better public services. Daglio’s work involves researching and advising on how new regulations, funding mechanisms, and public–private collaborations can create space for innovation in government. Given HyperGood’s focus on innovative grant programs, Daglio’s insight into global best practices and multi-government networks could be invaluable for mentorship or partnership.",
+                    "citations":  [
+                                      "https://www.eipa.eu/expert/marco-daglio/"
+                                  ]
+                },
+        "lead_type":  "civic innovation leader",
+        "created_at":  "2025-10-21T21:00:00Z",
+        "last_updated":  "2025-10-21T21:00:00Z",
+        "current_organizations":  [
+                                      "OECD"
+                                  ],
+        "locations":  [
+                          "Paris, FR"
+                      ]
+    },
+    {
+        "id":  "5f607182-93a4-4bc5-96d7-8a9b0c1d2e34",
+        "name":  "Jennifer Pahlka",
+        "title":  "Founder",
+        "bio":  {
+                    "description":  "A social entrepreneur who founded Code for America (2010) to help tech talent work with governments, often dubbed “the Peace Corps for geeks”. Pahlka led CfA for 10 years, demonstrating how civic tech and volunteer expertise can improve government IT and services. She also served as U.S. Deputy CTO, where she founded the United States Digital Service to inject startup-style innovation into federal agencies. Author of Recoding America, she advocates reinventing how citizens engage (a philosophy of “reinventing citizenship”). Pahlka’s network in civic technology and her experience scaling an innovative nonprofit align well with HyperGood’s cross-sector networking goals.",
+                    "citations":  [
+                                      "https://napawash.org/fellow/1803"
+                                  ]
+                },
+        "lead_type":  "civic innovation leader",
+        "created_at":  "2025-10-21T21:00:00Z",
+        "last_updated":  "2025-10-21T21:00:00Z",
+        "current_organizations":  [
+                                      "Code for America"
+                                  ],
+        "locations":  [
+                          "Oakland, CA"
+                      ]
+    },
+    {
+        "id":  "60718293-a4b5-4cd6-97e8-9b0c1d2e3f45",
+        "name":  "Tom Kalil",
+        "title":  "CEO",
+        "bio":  {
+                    "description":  "A veteran innovation strategist in both government and philanthropy. Kalil was Deputy Policy Director in the Obama White House OSTP and later led innovation at Schmidt Futures (2017–2024). In 2024 he launched Renaissance Philanthropy to “catalyze breakthrough science through ambitious philanthropy”. With a career spent launching initiatives like the National Nanotechnology Initiative and grand challenges, Kalil has deep expertise in harnessing technology and multi-sector partnerships for societal impact. His perspective would directly benefit efforts to design non-incremental grant programs.",
+                    "citations":  [
+                                      "https://en.wikipedia.org/wiki/Thomas_Kalil",
+                                      "https://x.com/tkalil2050?lang=en"
+                                  ]
+                },
+        "lead_type":  "civic innovation leader",
+        "created_at":  "2025-10-21T21:00:00Z",
+        "last_updated":  "2025-10-21T21:00:00Z",
+        "current_organizations":  [
+                                      "Renaissance Philanthropy"
+                                  ],
+        "locations":  [
+                          "Washington, DC"
+                      ]
+    },
+    {
+        "id":  "718293a4-b5c6-4de7-98f9-0c1d2e3f4a56",
+        "name":  "Geoff Mulgan",
+        "title":  "Professor of Collective Intelligence; Former Chief Executive, Nesta",
+        "bio":  {
+                    "description":  "Mulgan led Nesta, the UK’s innovation foundation, for nearly a decade (2011–2019), funding and scaling social innovation in areas from education to government transparency. He previously headed the UK government’s Strategy Unit and co-founded multiple social ventures. Now an academic, he focuses on collective intelligence and mission-driven innovation for public good. Many ideas he championed (social impact bonds, open data, challenge prizes) have gone mainstream. Mulgan’s blend of public policy and grassroots innovation experience – and his success in turning novel ideas into funded programs – strongly resonates with HyperGood’s mission of enabling breakthrough initiatives.",
+                    "citations":  [
+                                      "https://www.geoffmulgan.com/about"
+                                  ]
+                },
+        "lead_type":  "civic innovation leader",
+        "created_at":  "2025-10-21T21:00:00Z",
+        "last_updated":  "2025-10-21T21:00:00Z",
+        "current_organizations":  [
+                                      "University College London",
+                                      "Nesta"
+                                  ],
+        "locations":  [
+                          "London, UK"
+                      ]
+    },
+    {
+        "id":  "8293a4b5-c6d7-4ef8-990a-1d2e3f4a5b67",
+        "name":  "Ann Mei Chang",
+        "title":  "CEO",
+        "bio":  {
+                    "description":  "A leading expert in social innovation for global development, Chang was the first Executive Director of the USAID Global Development Lab, where she “harnessed best practices for innovation to accelerate solutions” to world challenges. At USAID she invested in and scaled innovations in health, agriculture, and governance across sectors. She also led innovation at Mercy Corps and authored Lean Impact: How to Innovate for Radically Greater Social Good. Now CEO of Candid (which advances data for the social sector), Chang’s experience in applying tech and funding to solve intractable problems – and doing so by connecting government with entrepreneurs and NGOs – makes her an ideal collaborator for HyperGood.",
+                    "citations":  [
+                                      "https://candid.org/people/ann-mei-chang/"
+                                  ]
+                },
+        "lead_type":  "civic innovation leader",
+        "created_at":  "2025-10-21T21:00:00Z",
+        "last_updated":  "2025-10-21T21:00:00Z",
+        "current_organizations":  [
+                                      "Candid"
+                                  ],
+        "locations":  [
+                          "San Francisco, CA"
+                      ]
+    },
+    {
+        "id":  "93a4b5c6-d7e8-4f09-a01b-2e3f4a5b6c78",
+        "name":  "Sonal Shah",
+        "title":  "Founding Executive Director",
+        "bio":  {
+                    "description":  "An economist-entrepreneur who has championed cross-sector innovation in government and academia. Shah was Deputy Assistant to the President and the founding Director of the White House Office of Social Innovation and Civic Participation under Obama, where she focused on “investing in and scaling innovative models in the social sector”. She later launched the Beeck Center at Georgetown University as a lab for students, experts, and public/private leaders to co-create social impact solutions. With additional experience at Google.org and Goldman Sachs, Shah straddles sectors. Her track record in institutionalizing innovation (both in federal policy and in a university-based hub) offers valuable insight for building HyperGood’s development intelligence studio.",
+                    "citations":  [
+                                      "https://socialfinance.org/person/sonal-shah/"
+                                  ]
+                },
+        "lead_type":  "civic innovation leader",
+        "created_at":  "2025-10-21T21:00:00Z",
+        "last_updated":  "2025-10-21T21:00:00Z",
+        "current_organizations":  [
+                                      "Beeck Center for Social Impact + Innovation"
+                                  ],
+        "locations":  [
+                          "Washington, DC"
+                      ]
+    },
+    {
+        "id":  "a4b5c6d7-e8f9-401a-b12c-3f4a5b6c7d89",
+        "name":  "Andrew Salkin",
+        "title":  "Founding Principal",
+        "bio":  {
+                    "description":  "A city resiliency expert who helped lead Rockefeller Foundation’s 100 Resilient Cities network – placing Chief Resilience Officers in cities worldwide and fostering cross-sector urban resilience strategies. Salkin now co-leads Resilient Cities Catalyst, continuing the work of partnering with city leaders, insurers, engineers, and community groups to plan for climate and disaster challenges. He emphasizes building partnerships between sectors and developing new tools to tackle stubborn urban problems. Salkin’s experience in orchestrating multi-city, multi-partner initiatives is directly relevant to HyperGood’s aim of seeding and supporting innovation ecosystems across civic domains.",
+                    "citations":  [
+                                      "https://www.rcc.city/board-of-directors"
+                                  ]
+                },
+        "lead_type":  "civic innovation leader",
+        "created_at":  "2025-10-21T21:00:00Z",
+        "last_updated":  "2025-10-21T21:00:00Z",
+        "current_organizations":  [
+                                      "Resilient Cities Catalyst"
+                                  ],
+        "locations":  [
+                          "New York, NY"
+                      ]
+    }
+]

@@ -1,0 +1,925 @@
+[
+  {
+    "id": "001",
+    "name": "Kevin Owocki",
+    "title": "Co-Founder, Gitcoin; Founder, Greenpill.network & Allo Capital",
+    "current_organizations": ["Gitcoin DAO", "Greenpill.network", "Allo Capital"],
+    "location": "Colorado, USA",
+    "bio": {
+      "description": "Co-founded Gitcoin, distributed $66M+ through quadratic funding. Pioneer of innovative coordination tech for public goods funding. Authored \"Greenpilled\" on crypto regeneration. Founded Allo Capital for pre-seed public goods infrastructure. Programs values into money for experimental projects.",
+      "citations": ["https://owocki.com", "https://twitter.com/owocki"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Crypto-Native & Web3 Grant Programs",
+    "priority_tags": ["GITCOIN WARM CONNECTION"],
+    "social_media": {
+      "twitter": "@owocki"
+    },
+    "website": "owocki.com",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "002",
+    "name": "Scott Moore",
+    "title": "Co-Founder, Gitcoin; Founder, Public Works",
+    "current_organizations": ["Gitcoin DAO", "Public Works"],
+    "location": "USA (formerly Toronto)",
+    "bio": {
+      "description": "Allocated $50M+ via quadratic funding. Founded Public Works for pre-seed community-first capital. Served on Ethereum Foundation and ConsenSys Grants Advisory Committees. Expert in democratizing funding allocation and making grants investible.",
+      "citations": []
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Crypto-Native & Web3 Grant Programs",
+    "priority_tags": ["GITCOIN WARM CONNECTION"],
+    "social_media": {
+      "linkedin": "LinkedIn",
+      "twitter": "Twitter active"
+    },
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "003",
+    "name": "Azeem Khan",
+    "title": "Head of Impact",
+    "current_organizations": ["Gitcoin DAO"],
+    "location": "Dubai, UAE (globally active)",
+    "bio": {
+      "description": "Leads strategic initiatives expanding Gitcoin ecosystem and measuring grant program impact. Positioned at intersection of grant program design and impact measurement. Ideal for innovative grantmaking intelligence discussions.",
+      "citations": []
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Crypto-Native & Web3 Grant Programs",
+    "priority_tags": ["GITCOIN WARM CONNECTION"],
+    "social_media": {
+      "linkedin": "LinkedIn",
+      "twitter": "Twitter active"
+    },
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "004",
+    "name": "Aya Miyaguchi",
+    "title": "President",
+    "current_organizations": ["Ethereum Foundation"],
+    "location": "Zug, Switzerland / Global",
+    "bio": {
+      "description": "Oversees $240M+ distributed over 2 years ($32M in Q1 2025 alone, 94 projects). Funds breakthrough cryptography, zero-knowledge proofs, scalability research. Champions \"infinite garden\" ecosystem building through innovative funding models. Co-funded original $100K Uniswap grant.",
+      "citations": ["https://linkedin.com/in/amiyaguchi", "https://twitter.com/AyaMiyagotchi"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Crypto-Native & Web3 Grant Programs",
+    "social_media": {
+      "linkedin": "/in/amiyaguchi",
+      "twitter": "@AyaMiyagotchi"
+    },
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "005",
+    "name": "Molly Mackinlay",
+    "title": "Head of Engineering, Product & Research Development; Founder, PL Venture Studio",
+    "current_organizations": ["Protocol Labs (IPFS, Filecoin)", "PL Venture Studio"],
+    "location": "USA (remote/global)",
+    "bio": {
+      "description": "Manages $5M+ RFP grant programs. Founded PL Venture Studio launching startups and research breakthroughs. Created PL Launchpad training hundreds in Web3. Oversees experimental programs including COVID-19 innovation grants. Focus on breakthrough technologies (FVM, IPC subnets).",
+      "citations": ["https://momack.eth.link", "https://twitter.com/momack28"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Crypto-Native & Web3 Grant Programs",
+    "social_media": {
+      "twitter": "@momack28"
+    },
+    "website": "momack.eth.link",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "006",
+    "name": "Fangfang Chen",
+    "title": "Head of Operations",
+    "current_organizations": ["Algorand Foundation"],
+    "location": "Singapore/Global",
+    "bio": {
+      "description": "Manages 250M ALGO Grants Program - one of crypto's largest. Oversees multiple grant tiers supporting experimental applications. Manages Algorand Europe and Asia Accelerators. Focus on scaling innovative solutions across diverse innovation models.",
+      "citations": []
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Crypto-Native & Web3 Grant Programs",
+    "social_media": {
+      "linkedin": "LinkedIn profile"
+    },
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "007",
+    "name": "Shreyas Hariharan",
+    "title": "Co-Author, Aave Grants DAO; Founder, Llama",
+    "current_organizations": ["Llama", "Aave Ecosystem"],
+    "location": "USA",
+    "bio": {
+      "description": "Designed Aave Grants DAO ($4.3M to 250+ teams). Founded Llama helping DeFi protocols optimize grant allocation. Uniswap grants reviewer. Expertise in treasury strategy and capital allocation for experimental protocols. Thought leader on structuring community-led, transparent grant programs.",
+      "citations": ["https://twitter.com/HelloShreyas"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Crypto-Native & Web3 Grant Programs",
+    "social_media": {
+      "twitter": "@HelloShreyas"
+    },
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "008",
+    "name": "Kenneth Ng",
+    "title": "Former Program Lead, Uniswap Grants; Former Ethereum Foundation Grants",
+    "current_organizations": ["Uniswap Foundation", "Independent Consultant"],
+    "location": "USA",
+    "bio": {
+      "description": "Led Uniswap Grants Program from inception ($7M+ to 122+ grantees over 18 months). Grew Ethereum Foundation Grants Program for two years. Background spans traditional nonprofit and biomedical research grants. Expert in rapid deployment, community involvement, and experimental developer tools funding.",
+      "citations": []
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Crypto-Native & Web3 Grant Programs",
+    "notes": "Active in governance forums",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "009",
+    "name": "Laura and Gary Lauder",
+    "title": "Co-Founders",
+    "current_organizations": ["Laura and Gary Lauder Family Venture Philanthropy Fund"],
+    "location": "Silicon Valley / Aspen, Colorado",
+    "bio": {
+      "description": "\"Cultivating Leaders—Launching Innovation.\" Hands-on venture philanthropy with rigorous questioning approach. Focus on visionary leaders launching projects to scale for lasting change. Jewish values-driven with broad focus areas. Perfect fit for development intelligence identifying breakthrough opportunities.",
+      "citations": ["https://lauderfamilyfund.org"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Private Foundations & Family Offices",
+    "website": "lauderfamilyfund.org",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "010",
+    "name": "Jim Bildner",
+    "title": "CEO and Board Member",
+    "current_organizations": ["Draper Richards Kaplan Foundation"],
+    "location": "Boston/National",
+    "bio": {
+      "description": "Leading venture philanthropy firm (225+ organizations, 500M+ lives impacted). Provides 3-year unrestricted funding plus board seats and capacity building. Shifted from \"disruption\" to \"leverage existing systems.\" Focus: healthcare transformation, education, systems change. Harvard Kennedy School adjunct. Values deep due diligence and strategic insight.",
+      "citations": ["https://linkedin.com/in/jim-bildner", "https://drkfoundation.org"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Private Foundations & Family Offices",
+    "social_media": {
+      "linkedin": "/in/jim-bildner"
+    },
+    "website": "drkfoundation.org",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "011",
+    "name": "Dr. Celine Coggins",
+    "title": "CEO (Inaugural)",
+    "current_organizations": ["The Goodness Web"],
+    "location": "Boston-area",
+    "bio": {
+      "description": "National collaborative fund for youth mental health innovation (~200 family philanthropies). Grants $200K-$3M multi-year unrestricted. Seeks \"transformational approaches\" and \"systems-changing strategies.\" Partnership with Pivotal Ventures. $10M+ since 2022. Venture-style due diligence for organizations poised for transformative impact.",
+      "citations": ["https://thegoodnessweb.org"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Private Foundations & Family Offices",
+    "website": "thegoodnessweb.org",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "012",
+    "name": "Mark and Gina Verdi",
+    "title": "Co-Founders (Mark: Board Chair)",
+    "current_organizations": ["The Goodness Web"],
+    "location": "National",
+    "bio": {
+      "description": "Co-founded to \"redefine traditional philanthropy\" and \"radically change trajectory in mental health arena.\" Funded all operating expenses. Focus on \"world class curation\" of philanthropic opportunities. Results-oriented with rigorous analytics. Presented at Goldman Sachs Philanthropy Forum.",
+      "citations": ["https://thegoodnessweb.org"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Private Foundations & Family Offices",
+    "website": "thegoodnessweb.org",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "013",
+    "name": "Eric and Wendy Schmidt",
+    "title": "Founders",
+    "current_organizations": ["Schmidt Sciences", "Schmidt Futures"],
+    "location": "Bay Area / National",
+    "bio": {
+      "description": "$1B+ committed to exceptional talent. Schmidt Sciences (2024): AI, biosciences, advanced computing focus areas. $150M+ at Broad Institute (biology + ML). $148M AI in Science Postdoctoral Fellowship (9 universities). \"Transformative technology\" and \"frontier science\" focus. Value sophisticated analytical approaches for identifying scientific breakthroughs early.",
+      "citations": ["https://schmidtsciences.org", "https://schmidtfutures.org"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Private Foundations & Family Offices",
+    "website": "schmidtsciences.org",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "014",
+    "name": "Melinda French Gates",
+    "title": "Founder",
+    "current_organizations": ["Pivotal Ventures"],
+    "location": "Seattle, WA",
+    "bio": {
+      "description": "\"Transformational ideas can come from anywhere\"—emphasis on innovation and experimentation. Multi-phased approach: explore interventions, identify impact, build sustainable solutions. Focus: caregiving, economic equity, education, mental health. Partners with The Goodness Web. Values ground-level intelligence and scaling proven ideas. TIME100 Philanthropy.",
+      "citations": ["https://pivotalventures.org"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Private Foundations & Family Offices",
+    "website": "pivotalventures.org",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "015",
+    "name": "Charlene Seidle",
+    "title": "President and CEO (transitioning to President/Chief Philanthropy Officer at JCF)",
+    "current_organizations": ["Leichtag Foundation", "Jewish Community Foundation San Diego"],
+    "location": "San Diego County, CA (Encinitas/North County)",
+    "bio": {
+      "description": "Leichtag focused on \"stimulating social entrepreneurship.\" Granted $145M+ since 1991 with emphasis on risk-taking and innovation. Developed Leichtag Commons as social enterprise hub. Limited-life foundation driving urgency and transformative impact. Consulting practice on philanthropic best practices—openness to new methodologies.",
+      "citations": ["https://leichtag.org", "https://jcfsandiego.org", "https://linkedin.com/in/charlene-seidle"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Private Foundations & Family Offices",
+    "priority_tags": ["SAN DIEGO PRIORITY"],
+    "social_media": {
+      "linkedin": "Charlene Seidle"
+    },
+    "website": "leichtag.org",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "016",
+    "name": "Jan and Rob Swartz",
+    "title": "Co-Founders",
+    "current_organizations": ["The Goodness Web"],
+    "location": "National",
+    "bio": {
+      "description": "Founded 2019 to accelerate mental health initiatives at scale. \"Radical collaboration\" across complex ecosystem. Focus on prevention/early intervention (10% of current philanthropic dollars). 100 founding families in first year. Need intelligence distinguishing genuine breakthroughs from incremental improvements.",
+      "citations": ["https://thegoodnessweb.org"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Private Foundations & Family Offices",
+    "website": "thegoodnessweb.org",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "017",
+    "name": "Tomas Björkman",
+    "title": "Social Entrepreneur, Philanthropist, Applied Philosopher",
+    "current_organizations": ["Ekskäret Foundation", "Perspectiva", "Emerge", "IDGs"],
+    "location": "London/Stockholm/Berlin",
+    "bio": {
+      "description": "\"First and foremost patron of metamodernism.\" Former investment banker with significant wealth. Active funder of metamodern philosophy, sensemaking, developmental initiatives. Supports Hanzi Freinacht, hosts Emerge gatherings (70+ intellectuals). Club of Rome member. Focus: systems change, adult development, addressing meta-crisis, conscious society. Funds paradigmatic vs. incremental solutions.",
+      "citations": ["https://tomas-bjorkman.com", "https://whatisemerging.com"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Private Foundations & Family Offices",
+    "priority_tags": ["GAME B WARM CONNECTION—HIGHEST PRIORITY"],
+    "website": "tomas-bjorkman.com",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "018",
+    "name": "Juan M. Lavista Ferres",
+    "title": "Corporate VP, Chief Data Scientist, Director AI for Good Lab",
+    "current_organizations": ["Microsoft"],
+    "location": "Kirkland/Redmond, WA",
+    "bio": {
+      "description": "Leads $5M+ annual AI for Good grant programs. Focus: healthcare innovation (cancer detection, retinopathy, SIDS), sustainability, disaster response. Just announced $5M Washington state AI for Good Open Call (2025). Highly experimental—wildlife conservation, disease detection, deforestation tracking. Published in top academic journals. Funds unconventional AI applications.",
+      "citations": ["https://linkedin.com/in/jlavista"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Corporate Innovation Funds",
+    "social_media": {
+      "linkedin": "/in/jlavista"
+    },
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "019",
+    "name": "Melinda Richter",
+    "title": "Global Head, Johnson & Johnson Innovation - JLABS",
+    "current_organizations": ["Johnson & Johnson"],
+    "location": "San Francisco Bay Area",
+    "bio": {
+      "description": "Manages QuickFire Challenge platform ($100K-$500K grants for breakthrough healthcare innovations). Focus: mental health innovation, healthcare transformation, nurses innovation, maternal health. No-strings-attached JLABS incubator model (entrepreneurs keep IP). FastCompany Most Innovative Company in Biotech. Explicitly seeks \"game-changing\" and \"transformational\" early-stage innovations.",
+      "citations": ["https://linkedin.com/in/melindarichter"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Corporate Innovation Funds",
+    "social_media": {
+      "linkedin": "/in/melindarichter"
+    },
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "020",
+    "name": "Denise Quashie",
+    "title": "Head of Worldwide Startup Marketing Programs; Creator, AWS Impact Accelerator",
+    "current_organizations": ["Amazon Web Services (AWS)"],
+    "location": "New York",
+    "bio": {
+      "description": "Created $30M+ AWS Impact Accelerator (3-year commitment). $225K per startup ($125K cash + $100K credits), zero equity. Focus: Black, Latino, Women, LGBTQIA+ founders in AI/ML, fintech, healthcare, life sciences. Former founder herself. 75+ startups funded across three cohorts. Explicitly leveling playing field for underrepresented innovators with experimental ideas.",
+      "citations": ["https://linkedin.com/in/denisequashie"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Corporate Innovation Funds",
+    "social_media": {
+      "linkedin": "/in/denisequashie"
+    },
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "021",
+    "name": "Mark E. Rostick",
+    "title": "VP and Senior Managing Director",
+    "current_organizations": ["Intel Capital"],
+    "location": "Santa Clara, CA",
+    "bio": {
+      "description": "Leads healthcare and life sciences investments. $132M+ annual investments (11+ disruptive startups). $5B+ in assets, $20B+ invested over 30 years. 32% of investments to underrepresented groups, $300M+ in diversity investments. Invests in \"disruptive startups\" and \"breakthrough innovations\" at early stages (quantum computing, autonomous systems, AI-powered healthcare).",
+      "citations": []
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Corporate Innovation Funds",
+    "notes": "Intel Capital team page",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "022",
+    "name": "Cisco Foundation Global Impact Grants",
+    "title": "Program (Director name not public)",
+    "current_organizations": ["Cisco Foundation", "Cisco Systems"],
+    "location": "San Jose, CA",
+    "bio": {
+      "description": "$100M committed over 10 years to climate solutions. Four priority sectors: climate regeneration, crisis response, economic empowerment, education. Explicitly seeks \"early-stage, tech-enabled solutions\" with \"potential to scale exponentially.\" Focus on \"innovative climate solutions\" and funding \"less proven approaches.\" Mid-sized organizations with innovative approaches.",
+      "citations": ["https://cisco.com/csr/community/nonprofits/global-impact-cash-grants"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Corporate Innovation Funds",
+    "website": "cisco.com/csr/community/nonprofits/global-impact-cash-grants",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "023",
+    "name": "Google.org / Stuart McLaughlin",
+    "title": "Director, Advocacy and Strategic Partnerships (suggested contact)",
+    "current_organizations": ["Google.org"],
+    "location": "Mountain View, CA / Global",
+    "bio": {
+      "description": "$1B+ in grants over 5 years. Three key areas: Knowledge/Skills/Learning; Scientific Progress; Stronger Communities. €10M Social Innovation Fund on AI for underserved social entrepreneurs (Europe). $30M Climate Impact Challenge. Funds \"breakthrough nonprofits\" and \"bold, innovative\" projects. $2.8M to WFP Innovation Accelerator, projects using AI for wildlife conservation, climate prediction.",
+      "citations": []
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Corporate Innovation Funds",
+    "notes": "Google.org leadership",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "024",
+    "name": "Mike Berkowitz",
+    "title": "Executive Director & Co-Founder",
+    "current_organizations": ["Democracy Funders Network", "Third Plateau Social Impact Strategies"],
+    "location": "Berkeley, CA / Washington DC",
+    "bio": {
+      "description": "Leads cross-ideological learning community for major democracy donors. Focus on long-term, transformational change vs. election-cycle giving. Senior Advisor to Pritzker Innovation Fund. Co-founded Patriots & Pragmatists. Advocates 5-10-20 year time horizons and paradigm-shifting approaches over incremental change. Quote: \"Cannot revitalize American democracy election cycle by election cycle.\"",
+      "citations": ["https://democracyfundersnetwork.org", "https://linkedin.com/in/mike-berkowitz-8b517927"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Governance Innovation & Systems Change",
+    "priority_tags": ["WEST COAST"],
+    "social_media": {
+      "linkedin": "/in/mike-berkowitz-8b517927"
+    },
+    "website": "democracyfundersnetwork.org",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "025",
+    "name": "Rachel Pritzker",
+    "title": "President & Founder; Chair, Democracy Funders Network",
+    "current_organizations": ["Pritzker Innovation Fund"],
+    "location": "San Francisco Bay Area",
+    "bio": {
+      "description": "Chairs Democracy Funders Network. Founded Pritzker Innovation Fund supporting \"paradigm-shifting ideas to address wicked problems\" (Democracy, Climate/Energy). Co-founded Patriots & Pragmatists. Philosophy centers on paradigm-shifting innovation and breaking through ideological gridlock. \"Always be challenging\" assumptions. Focus explicitly on transformation, not incrementalism.",
+      "citations": ["https://pritzkerinnovationfund.org", "https://linkedin.com/in/rachelpritzker"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Governance Innovation & Systems Change",
+    "priority_tags": ["GAME B WARM CONNECTION—BAY AREA"],
+    "social_media": {
+      "linkedin": "/in/rachelpritzker"
+    },
+    "website": "pritzkerinnovationfund.org",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "026",
+    "name": "Josh Stearns",
+    "title": "Managing Director of Programs",
+    "current_organizations": ["Democracy Fund"],
+    "location": "Washington, DC",
+    "bio": {
+      "description": "Oversees Equitable Journalism, Digital Democracy, Governance, Just & Inclusive Society, Elections & Voting programs. Leads Press Forward ($500M+ national movement revitalizing local news) and NewsMatch ($400M+ mobilized). Focus on \"long-term, transformational changes to institutions and election systems.\" Explicitly reimagining systems vs. incremental fixes.",
+      "citations": ["https://linkedin.com/in/jcstearns"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Governance Innovation & Systems Change",
+    "email": "jstearns@democracyfund.org",
+    "social_media": {
+      "linkedin": "/in/jcstearns"
+    },
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "027",
+    "name": "Geri Mannion",
+    "title": "Managing Director",
+    "current_organizations": ["Carnegie Corporation of New York - Strengthening U.S. Democracy Program"],
+    "location": "New York, NY",
+    "bio": {
+      "description": "Directs $17M+ annual U.S. Democracy Program focused on systemic changes. Supports structural reforms including electoral system redesign, civic education transformation. Founded Four Freedoms Fund (major funder collaborative). Robert W. Scrivner Award for Creative Grantmaking (philanthropy's highest honor). Inside Philanthropy \"Program Director of the Year\" 2021. \"The election isn't the end point\"—sustained, transformational approaches.",
+      "citations": ["https://linkedin.com/in/gerimannion", "https://carnegie.org"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Governance Innovation & Systems Change",
+    "social_media": {
+      "linkedin": "/in/gerimannion"
+    },
+    "website": "carnegie.org",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "028",
+    "name": "Anamitra Deb",
+    "title": "Managing Director, Responsible Tech",
+    "current_organizations": ["Omidyar Network"],
+    "location": "USA",
+    "bio": {
+      "description": "Oversees Responsible Tech with \"systems approach\" to technology governance. Leads teams on platform accountability, digital governance, AI guardrails. Mission: \"Reimagining critical systems and ideas that govern them.\" Focus on whether \"conditions for systems change are in place\" vs. project-level outcomes. Constructivist investing (Anthropic). Invests in \"paradigm-shifting\" ideas.",
+      "citations": ["https://omidyar.com", "https://cigionline.org/people/anamitra-deb"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Governance Innovation & Systems Change",
+    "website": "omidyar.com",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "029",
+    "name": "Sanjiv Rao",
+    "title": "Vice President",
+    "current_organizations": ["Democracy Fund"],
+    "location": "Washington, DC",
+    "bio": {
+      "description": "Oversees program, communications, research, partnerships, strategy. Former senior equity fellow in White House OMB. Nearly a decade at Ford Foundation as Director of Civic Engagement and Government. Focus on systemic change, structural transformation of democratic institutions, advancing inclusive, multiracial democracy. Democracy Fund's focus on \"structural change\" and \"transformational work.\"",
+      "citations": ["https://democracyfund.org"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Governance Innovation & Systems Change",
+    "website": "democracyfund.org",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "030",
+    "name": "Ali Noorani",
+    "title": "Senior Advisor, U.S. Democracy Program (transitioning to President, Barr Foundation Dec 2025)",
+    "current_organizations": ["William and Flora Hewlett Foundation", "Barr Foundation"],
+    "location": "San Francisco Bay Area → Boston, MA",
+    "bio": {
+      "description": "Directed Hewlett's $45M annual U.S. Democracy Program on electoral and governing institutions structural reforms. \"National Governing Institutions\" strategy—responsive, effective, trustworthy government. Transitioning to lead Barr Foundation (~$1.5B assets: arts, climate solutions, student potential) bringing systems-change orientation. Creative coalition-building across ideological lines.",
+      "citations": ["https://hewlett.org"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Governance Innovation & Systems Change",
+    "priority_tags": ["WEST COAST TO BOSTON"],
+    "website": "hewlett.org",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "031",
+    "name": "Alexandra Cohen",
+    "title": "President",
+    "current_organizations": ["Steven & Alexandra Cohen Foundation"],
+    "location": "Stamford, CT (Greater NYC)",
+    "bio": {
+      "description": "One of largest private funders of psychedelic research in US ($60M+ committed). Foundation donated $1.3B total since 2001. Major funder: Johns Hopkins Center for Psychedelic & Consciousness Research ($17M founding gift), MAPS MDMA-assisted therapy ($5M+), Mount Sinai Psychedelic Psychotherapy ($2.1M+). Focus on \"solving complex problems\" and breakthrough approaches. Personally passionate about equitable access to novel therapies. Does NOT accept unsolicited applications—requires networking.",
+      "citations": ["https://steveandalex.org"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Healthcare/Mental Health Innovation",
+    "website": "steveandalex.org",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "032",
+    "name": "Joe Green",
+    "title": "Co-Founder & President",
+    "current_organizations": ["Psychedelic Science Funders Collaborative (PSFC)"],
+    "location": "San Francisco, CA",
+    "bio": {
+      "description": "Co-founded PSFC (2017) as 501(c)(3) funding collaborative. Serial social entrepreneur (Causes, NationBuilder, FWD.us). Led $30M Capstone Campaign with MAPS/Tim Ferriss for MDMA-assisted therapy FDA approval. $4M+ grants to leading psychedelic research. Seeks \"causes with high potential for systemic impact, yet limited resources.\" Angel investor (Asana, Dropbox, Lyft). Bridges philanthropy, tech innovation, social entrepreneurship.",
+      "citations": ["https://psfc.co", "https://linkedin.com/in/joegreen3"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Healthcare/Mental Health Innovation",
+    "priority_tags": ["WEST COAST"],
+    "social_media": {
+      "linkedin": "/in/joegreen3"
+    },
+    "website": "psfc.co",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "033",
+    "name": "Tim Ferriss",
+    "title": "Author, Investor, Philanthropist; Founder, Saisei Foundation",
+    "current_organizations": ["Saisei Foundation"],
+    "location": "Austin, Texas",
+    "bio": {
+      "description": "Committed $4-6M+ to psychedelic research since ~2015. Founding funder at Imperial College London and Johns Hopkins. Created $10M challenge grant catalyzing $30M for MAPS. Funded: psilocybin for treatment-resistant depression, MDMA-assisted PTSD therapy, opioid addiction research. Created Ferriss-UC Berkeley Psychedelic Journalism Fellowship. Judges investments \"based on outcomes, not size of inputs.\" Interested in \"unorthodox research challenging existing frameworks.\" Influential platform amplification potential.",
+      "citations": ["https://saiseifoundation.org", "https://tim.blog"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Healthcare/Mental Health Innovation",
+    "website": "saiseifoundation.org",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "034",
+    "name": "Bill Linton (William A. Linton)",
+    "title": "CEO, Promega Corp; Co-Founder & Executive Director, Usona Institute; Treasurer, Heffter",
+    "current_organizations": ["Usona Institute", "Promega Corp", "Heffter Research Institute"],
+    "location": "Madison/Fitchburg, WI",
+    "bio": {
+      "description": "Founded Promega Corp ($750M+ revenue, 1,900 employees). Co-founded Usona Institute (2014) to get psychedelic therapies through FDA approval. Built $70M, 93,000 sq ft campus devoted entirely to psychedelic science (2023). Leading largest phase 3 trial of psilocybin for major depressive disorder (240 participants). FDA \"Breakthrough Therapy\" designation. Manufacturing pharmaceutical-grade psilocybin for global trials. Stays \"behind the scenes\" as \"stagehand.\" Mission: revolutionize treatment of depression, addiction, PTSD, anxiety.",
+      "citations": ["https://usonainstitute.org"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Healthcare/Mental Health Innovation",
+    "website": "usonainstitute.org",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "035",
+    "name": "Carey Turnbull",
+    "title": "President & Board Member",
+    "current_organizations": ["Heffter Research Institute"],
+    "location": "National (incorporated in New Mexico)",
+    "bio": {
+      "description": "President since ~2018 of one of oldest, most respected psychedelic research funders (founded 1993). $3.1M+ in grants 2011-2014; responsible for 63% of top-cited psychedelic research. Funded groundbreaking studies at Johns Hopkins, NYU, UCLA, University of Zürich, Yale. 2018 NIH $4M grant for psilocybin smoking cessation (first federal psychedelic grant in 50 years). Focus: cancer-related distress, addiction, depression, PTSD. Grants maximize research impact (no institutional indirect costs).",
+      "citations": ["https://heffter.org"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Healthcare/Mental Health Innovation",
+    "website": "heffter.org",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "036",
+    "name": "Graham Boyd, J.D.",
+    "title": "Co-Founder & Executive Director",
+    "current_organizations": ["Psychedelic Science Funders Collaborative (PSFC)"],
+    "location": "National (PSFC is 501(c)(3))",
+    "bio": {
+      "description": "Co-founded PSFC with Joe Green (2017). Attorney specializing in drug law reform, reducing mass incarceration, science-based healing access. Founding director of New Approach Advocacy Fund (psychedelic decriminalization). Co-led $30M Capstone Campaign with MAPS. Expertise in opinion research, legal drafting, campaign design. Recognizes beneficiaries \"often suffer in silence\"—advocates for marginalized populations. Focus on ensuring patient access, not just research funding. Unique combination: legal expertise, policy reform, commitment to equitable access.",
+      "citations": ["https://psfc.co"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Healthcare/Mental Health Innovation",
+    "website": "psfc.co",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "037",
+    "name": "George R. Greer, M.D.",
+    "title": "Board Chair & Co-Founder",
+    "current_organizations": ["Heffter Research Institute"],
+    "location": "National/International",
+    "bio": {
+      "description": "Co-founded Heffter (1993). Former President and Medical Director (now Board Chair). Physician/psychiatrist with decades in psychedelic medicine. Part of original team restarting psychedelic research after 20+ year dormancy. Helped establish protocols for safe, effective psychedelic-assisted therapy. Medical expertise bridges clinical practice and research funding. Received $138,405+ Heffter grant for PATH study (psilocybin in hospice care). Heffter's commitment: making research freely available (no paywalls).",
+      "citations": ["https://heffter.org"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Healthcare/Mental Health Innovation",
+    "website": "heffter.org",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "038",
+    "name": "Patrick Collison",
+    "title": "Co-founder & CEO, Stripe; Co-founder, Arc Institute",
+    "current_organizations": ["Arc Institute", "Stripe"],
+    "location": "Palo Alto, CA (Bay Area)",
+    "bio": {
+      "description": "Co-founded Arc Institute with $650M+ endowment for high-risk, high-reward biomedical research. Pioneered Fast Grants during COVID ($50M, decisions in 48 hours). Funds full 8-year renewable terms for curiosity-driven research. Focus: complex diseases, neurodegeneration, cancer, immune dysfunction. Partners: Stanford, UC Berkeley, UCSF. Removes traditional grant application burden—provides unconstrained funding. Backers include Vitalik Buterin, Ron Conway family, Dustin Moskovitz.",
+      "citations": ["https://arcinstitute.org", "https://patrickcollison.com"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Frontier Science & Breakthrough Biotech",
+    "priority_tags": ["BAY AREA PRIORITY"],
+    "website": "arcinstitute.org",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "039",
+    "name": "Yuri Milner",
+    "title": "Co-founder, Breakthrough Prize Foundation; Founder, DST Global",
+    "current_organizations": ["Breakthrough Prize Foundation", "Breakthrough Initiatives"],
+    "location": "Silicon Valley (Bay Area)",
+    "bio": {
+      "description": "Breakthrough Prizes: $3M awards (largest science prizes) in Physics, Life Sciences, Mathematics. $100M+ Breakthrough Listen (SETI), $100M Breakthrough Starshot (interstellar travel). Co-funded Altos Labs (anti-aging, $3B+). Strong focus on transformational, paradigm-shifting research. Physics PhD background. Giving Pledge signatory committed to scientific causes.",
+      "citations": ["https://breakthroughprize.org", "https://yurimilner.com"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Frontier Science & Breakthrough Biotech",
+    "priority_tags": ["BAY AREA PRIORITY"],
+    "website": "breakthroughprize.org",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "040",
+    "name": "Hal Barron, M.D.",
+    "title": "CEO",
+    "current_organizations": ["Altos Labs"],
+    "location": "San Francisco Bay Area, San Diego, Cambridge UK, Japan",
+    "bio": {
+      "description": "Leading $3B+ funded anti-aging/cellular rejuvenation company. Former Chief Scientific Officer, GlaxoSmithKline. Focus: biological reprogramming to reverse disease at any age. Advisory board includes Nobel laureates (Jennifer Doudna CRISPR, Shinya Yamanaka stem cells). Salaries 10x higher than comparable research. Atypical focus on basic research without immediate commercial requirements. Most well-funded biotech startup to date.",
+      "citations": []
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Frontier Science & Breakthrough Biotech",
+    "priority_tags": ["SAN DIEGO PRESENCE"],
+    "notes": "Via Altos Labs (backers: Jeff Bezos, Yuri Milner)",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "041",
+    "name": "Eric Verdin, M.D.",
+    "title": "President & CEO",
+    "current_organizations": ["Buck Institute for Research on Aging"],
+    "location": "Novato, CA (Bay Area - Marin County)",
+    "bio": {
+      "description": "Leading world's first independent research institute dedicated solely to aging. $65M+ annual operating budget, ~300 employees. Focus: metabolism, diet, epigenetics in aging—studying root causes vs. symptoms. 210+ papers, 15+ patents, highly cited scientist (top 1%). Advisor to Calico (Google), multiple biotech startups. First human clinical trial launched (BIKE, 2023). Partners with NIH ($25M+ in new grants). San Diego biotech hub proximity, well-networked in Bay Area.",
+      "citations": ["https://buckinstitute.org"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Frontier Science & Breakthrough Biotech",
+    "priority_tags": ["BAY AREA PRIORITY"],
+    "website": "buckinstitute.org",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "042",
+    "name": "Tyler Cowen",
+    "title": "Director, Emergent Ventures; Economics Professor; Mercatus Center Faculty Director",
+    "current_organizations": ["Mercatus Center at George Mason University"],
+    "location": "Arlington, VA (DC area)",
+    "bio": {
+      "description": "Created Fast Grants (COVID rapid funding model—inspiration for field). Emergent Ventures: 1,000+ grants globally, $1K-$50K range. Rolling applications, decisions in 2-3 weeks, minimal bureaucracy. Funded by Thiel Foundation initially. \"Moonshot\" focus: high-risk, high-reward, zero-to-one ideas. Emphasis on talent discovery across all ages and geographies. Named TIME 100 Philanthropy (2025) for innovative giving. Fast Grants for Global Talent: underrepresented STEM talent. Highly accessible application (3 questions, <30 min).",
+      "citations": ["https://mercatus.org/emergent-ventures"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Frontier Science & Breakthrough Biotech",
+    "website": "mercatus.org/emergent-ventures",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "043",
+    "name": "VitaDAO Leadership",
+    "title": "Key Figures: Tyler Golato, Laurence Ion, Paul Kohlhaas, Tim Peterson, Vincent Weisser, Alex Dobrin",
+    "current_organizations": ["VitaDAO (Decentralized Autonomous Organization)"],
+    "location": "Global/Decentralized",
+    "bio": {
+      "description": "First DAO focused on longevity research—raised $4.5M+ deployed across 23+ projects. Pfizer Ventures investor ($4.1M round, 2023)—first pharma company in DAO. Fast decision-making: 2-week turnaround. Backs \"moonshots\" traditional funding won't touch. VitaLabs program: funding for researchers breaking from traditional academia. Longevity Fellowship: micro-grants up to $2K. Strong Vitalik Buterin support and crypto community backing. IP-NFT model democratizing research IP ownership. Community of 10,000+ members; $VITA token governance.",
+      "citations": ["https://vitadao.com"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Frontier Science & Breakthrough Biotech",
+    "website": "vitadao.com",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "044",
+    "name": "Sara Lomelin",
+    "title": "Founding CEO",
+    "current_organizations": ["Philanthropy Together"],
+    "location": "San Francisco Bay Area, CA",
+    "bio": {
+      "description": "Nationally recognized leader in collective giving. Founded Philanthropy Together (2020)—first organization scaling collective giving movement nationally. TIME100 Philanthropy (2025), Forbes' 50 Over 50: Impact (2023). Founded Latino Giving Circle Network (largest network of Latinx philanthropists in U.S.). Supports 3,000+ giving circles (150,000 people, nearly $1.3B donated). Democratizing and diversifying philanthropy through people-powered giving. Released \"In Abundance\" research (2024). Focus on innovation in grantmaking structures and participatory decision-making.",
+      "citations": ["https://linkedin.com/in/saralomelin"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Donor Collectives & Collaborative Funding",
+    "priority_tags": ["WEST COAST"],
+    "social_media": {
+      "linkedin": "/in/saralomelin"
+    },
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "045",
+    "name": "Daniel Lee, M.Div.",
+    "title": "Director of Philanthropic Transformation",
+    "current_organizations": ["Solidaire Network"],
+    "location": "Oakland, CA / San Francisco Bay Area",
+    "bio": {
+      "description": "Leads Solidaire's philanthropic culture transformation toward long-term structural change. Previously Executive Director, Levi Strauss Foundation (2008-2021). Solidaire pioneered donor organizing post-Occupy Wall Street. Created Black Liberation Pooled Fund ($26M+ deployed since 2021). 10-year strategy to \"move $10 billion to social justice movements.\" Launched Philanthropic Transformation Team (late 2023). Active with new pooled fund strategies (2024-2025). Experiments with innovative funding structures.",
+      "citations": ["https://linkedin.com/in/daniel-jae-won-lee"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Donor Collectives & Collaborative Funding",
+    "priority_tags": ["WEST COAST"],
+    "social_media": {
+      "linkedin": "/in/daniel-jae-won-lee"
+    },
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "046",
+    "name": "Nancy Roob & Jim Shelton",
+    "title": "Nancy Roob (Founder & Executive Chair), Jim Shelton (CEO as of March 2025)",
+    "current_organizations": ["Blue Meridian Partners"],
+    "location": "New York City",
+    "bio": {
+      "description": "Nancy Roob (Founder & Executive Chair): Founded Blue Meridian Partners (2016), CEO until March 2025. Built into one of largest philanthropic intermediaries ($4.5B+ aggregated). Previously President & CEO, Edna McConnell Clark Foundation. Jim Shelton (CEO as of March 2025): Former Chief Investment and Impact Officer. Previously President of Education at Chan Zuckerberg Initiative, COO of US Department of Education. Model: pioneering collaborative philanthropy pooling 20+ major donors (MacKenzie Scott, Ballmer Group, Gates Foundation). Performance-based investing with flexible, multi-year grants ($10-50M+). December 2024/March 2025 leadership transition creates opportunity for strategic program design refinement.",
+      "citations": ["https://linkedin.com/in/nancyroob"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Donor Collectives & Collaborative Funding",
+    "social_media": {
+      "linkedin": "/in/nancyroob"
+    },
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "047",
+    "name": "Olivia Leland",
+    "title": "Founder & CEO",
+    "current_organizations": ["Co-Impact"],
+    "location": "New York (with global team across 8 countries/5 continents)",
+    "bio": {
+      "description": "Founded Co-Impact (2017) after Managing Director at Rockefeller Foundation and founding director of Giving Pledge. Pooling $500M+ from 60+ funding partners (Gates, Rockefeller Foundation, Jeff Skoll, Richard Chandler). Focus on systems change in health, education, economic opportunity. Large multi-year investments ($10-50M) to locally-rooted coalitions in Africa, Asia, Latin America. Launched $440M Gender Fund aiming for $1B by 2030. Launched ICONIQ Impact Women's Health Co-Lab (2024). Partnership with Bridgespan on systems change due diligence (2024).",
+      "citations": ["https://uk.linkedin.com/company/collab-impact"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Donor Collectives & Collaborative Funding",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "048",
+    "name": "Leena Barakat",
+    "title": "President & CEO",
+    "current_organizations": ["Women Donors Network (WDN)", "WDN Action (501c4)"],
+    "location": "San Francisco, CA / Los Angeles area",
+    "bio": {
+      "description": "[WEST COAST] Palestinian-American activist and leader, became President & CEO September 2022. Previously Director of Strategic Partnerships at Tides (7 years, grew assets from $189M to $1.5B). Multi-generational, multiracial network of women donors committed to gender, racial, economic, climate justice. Surpassed $100M in collective funding by 2024. 200+ donor members contributing $175M+ annually. Operates donor organizing model with pooled funds including Abortion Bridge Collaborative Fund. Implementing bold new strategic plan (developed 2023-2024, 190+ community member input). Trust-based philanthropy, unrestricted grants to BIPOC-led organizations.",
+      "citations": ["https://linkedin.com/in/leenabarakat"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Donor Collectives & Collaborative Funding",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "049",
+    "name": "Isabelle Leighton",
+    "title": "Executive Director",
+    "current_organizations": ["Donors of Color Network (DOCN)", "Donors of Color Action (501c4)"],
+    "location": "Brooklyn, NY / Redan, GA (HQ)",
+    "bio": {
+      "description": "20+ years experience in social justice and movement-oriented organizations. Founded Equality Fund (philanthropic advocacy project), past NYC co-chair of Asian Americans and Pacific Islanders in Philanthropy. Only cross-racial donor organizing network focused on racial equity; convenes 1.32M people of color with assets over $1M. Founded 2019 by three women of color. Launched Climate Funders Justice Pledge raising $120M+ in 2 years. Released major research (\"Philanthropy Always Sounds Like Someone Else\") and announced 5-year strategic plan (16-month planning cycle). Active in Climate Funders Justice Pledge, All By April campaign 2024.",
+      "citations": ["https://donorsofcolor.org"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "Donor Collectives & Collaborative Funding",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "050",
+    "name": "Mike Krenn",
+    "title": "Managing Director, Prebys Ventures Impact Fund",
+    "current_organizations": ["Prebys Foundation"],
+    "location": "San Diego, CA",
+    "bio": {
+      "description": "[SAN DIEGO PRIORITY—BRAND NEW FUND] Just launched $50M fund in February 2025 specifically for San Diego tech and life sciences innovation. Founder of Tech Coast Angels, CommNexus (now EvoNexus), San Diego Venture Group. Helped 100+ companies raise over $800M. Exclusively invests in San Diego-based early-stage (seed, Series A/B). Check size: $500K-$2M. Zero upside structure, all returns reinvested into regional innovation economy. Deep local network for 30+ years. Unique philanthropic venture fund structure.",
+      "citations": ["https://linkedin.com/in/mikekrenn", "https://prebysfdn.org"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "West Coast Geographic-Specific",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "051",
+    "name": "Grant Oliphant",
+    "title": "CEO",
+    "current_organizations": ["Prebys Foundation (The Conrad Prebys Foundation)"],
+    "location": "San Diego, CA (Mission Hills)",
+    "bio": {
+      "description": "[SAN DIEGO PRIORITY] CEO of one of San Diego's largest independent foundations. Led creation of $50M Prebys Ventures Impact Fund demonstrating commitment to breakthrough innovation funding. Focus: arts, medical research, healthcare, youth success, impact investment. United for San Diego partnership with Price Philanthropies and San Diego Foundation ($70M response fund). Previously president of Heinz Endowments (Pittsburgh) and Pittsburgh Foundation. Launched BRIDGE program to support nonprofit sector. Deep belief in San Diego as global innovation hub.",
+      "citations": ["https://prebysfdn.org"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "West Coast Geographic-Specific",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "052",
+    "name": "Helen Stortini",
+    "title": "CEO",
+    "current_organizations": ["SVP Vancouver (Social Venture Partners Vancouver)"],
+    "location": "Vancouver, BC, Canada",
+    "bio": {
+      "description": "[VANCOUVER PRIORITY] CEO of one of SVP International's largest affiliates (150+ engaged philanthropists). Network provided 70+ nonprofits with $12M+ in grants over 21 years plus capacity building. \"Game-Changing Giving\" initiative launched to TRIPLE venture philanthropy support, committed to raise $1M first year, $2M by 2027. New \"Series B\" granting stream specifically for scaling innovative solutions. Multi-year financial support, not one-time grants. Part of 4,000+ member global SVP network. First-ever Impact Open event (entrepreneurial approach to philanthropy).",
+      "citations": ["https://svpvancouver.org", "https://linkedin.com/in/helen-stortini-5008983"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "West Coast Geographic-Specific",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "053",
+    "name": "Matt McIlwain",
+    "title": "Managing Director",
+    "current_organizations": ["Madrona Venture Group"],
+    "location": "Seattle, WA",
+    "bio": {
+      "description": "[SEATTLE/PNW PRIORITY] Premier PNW VC firm (founded 1995). Raised $690M (2022), recently announced $770M in new funding (2025), largest ever for PNW VC. \"Seattle-First\" strategy: 100% Seattle-first venture firm, invests half of fund in Pacific Northwest. Ran Madrona Venture Labs startup studio (now integrated). Investment themes: ML/life sciences intersection, next-gen software infrastructure. Backed companies raised $2.5B+ in follow-on funding. Committed to building \"best inclusive innovation ecosystem on the planet\" in PNW. Collegial ecosystem building vs. competitive deal-winning.",
+      "citations": ["https://madrona.com", "https://linkedin.com/company/madrona-venture-group"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "West Coast Geographic-Specific",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "054",
+    "name": "Founders' Co-op",
+    "title": "Seed-stage fund",
+    "current_organizations": ["Founders' Co-op"],
+    "location": "Seattle, WA (Startup Hall, University of Washington partnership)",
+    "bio": {
+      "description": "[SEATTLE/PNW PRIORITY] Pacific Northwest's leading seed-stage venture fund since 2008. \"Built by founders, funded by founders\" designed to put founders first. 128 first-check investments; portfolio companies raised $2.5B+ in follow-on funding. Notable exits: led seed rounds for Remitly, Outreach, Ganaz. Led Techstars Seattle 2010-2019 and Amazon Alexa Accelerator; invested in 250 companies total in PNW. Created Startup Hall partnership with University of Washington. Focus: Pre-seed, Seed, Series A in Pacific Northwest and Western Canada.",
+      "citations": ["https://founderscoop.com"]
+    },
+    "lead_type": "innovative grantmakers",
+    "category": "West Coast Geographic-Specific",
+    "created_at": "2025-01-21T12:00:00Z",
+    "last_updated": "2025-01-21T12:00:00Z"
+  }
+]
